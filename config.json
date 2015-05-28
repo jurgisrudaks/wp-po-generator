@@ -1,0 +1,27 @@
+{
+    "tranlationsFile": {
+        "remote": {
+            "hostName": "docs.google.com",
+            "port": 443,
+            "path": "/spreadsheets/d/1D_kMap_4UBu3Q8EyME-QhEhkDpWKxLfOHjh9Iuvy1n8/export?format=xlsx",
+            "method": "GET"
+        },
+        "local": "translations.xlsx"
+    },
+    "templatesPath": "templates/",
+    "DK": {
+        "template": "da_DK.tmpl",
+        "langDefineCell": "B1",
+        "outputFile": "da_DK.po"
+    },
+    "IT": {
+        "template": "it_IT.tmpl",
+        "langDefineCell": "C1",
+        "outputFile": "it_IT.po"
+    },
+    "NO": {
+        "template": "no_NO.tmpl",
+        "langDefineCell": "D1",
+        "outputFile": "no_NO.po"
+    }
+}
